@@ -1,7 +1,7 @@
 <h1 align="center">Hey There 👋, I'm Evita Sharon Barboza</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-- 🌱 I’m currently learning **FullStack and Backend**
+- 🌱 I’m currently learning **Full Stack and Backend**
 
 - 📫 How to reach me **evitabarboza195@gmail.com**
 
