@@ -1,7 +1,6 @@
 <h1 align="center">Hello people 👋, I'm Evita Barboza</h1>
 <h3 align="center">I am a 3rd year CSE Student who is passionate about learning new tech stuffs </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evitabarboza&label=Profile%20views&color=0e75b6&style=flat" alt="evitabarboza" /> </p>
 
 - 📫 **evitabarboza195@gmail.com**
 
