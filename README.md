@@ -6,7 +6,6 @@
     <em>I am a 3rd year CSE Student who is passionate about learning new tech stuffs</em>
 </h3>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/evitabarboza" target="_blank" rel="noreferrer">
