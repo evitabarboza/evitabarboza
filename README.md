@@ -7,7 +7,7 @@
 </h3>
 
 <br>
-<img align="right" height="250" src="https://i.pinimg.com/originals/49/c3/56/49c356947e7e5d6a353056177e7f66ae.gif"  />
+<img align="right" height="220" src="https://i.pinimg.com/originals/49/c3/56/49c356947e7e5d6a353056177e7f66ae.gif"  />
 
 
 <h3 align="left">Connect with me:</h3>
