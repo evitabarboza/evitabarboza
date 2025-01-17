@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://skillsicon.dev" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,photoshop" />
-    <img src="https://skillicons.dev/icons?i=mysql,postman,python,javascript,express,firebase,mongodb,c,java,php" /></p>
+    <img src="https://skillicons.dev/icons?i=mysql,postman,python,javascript,express,vercel,mongodb,c,java,php" /></p>
 <br>
 
 
