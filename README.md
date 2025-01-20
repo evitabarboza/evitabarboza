@@ -31,9 +31,9 @@
 
 
 
-<p>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=evitabarboza&show_icons=true&locale=en&theme=dark&text_color=ffffff&title_color=00aaff" alt="evitabarboza" />   -
+<p>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=evitabarboza&show_icons=true&locale=en&theme=dark&text_color=ffffff&title_color=00aaff" alt="evitabarboza" />  
 </p> 
-<<p>
+<p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evitabarboza&theme=dark&background=000000&stroke=ffffff&ring=00aaff&fire=00aaff&currStreakLabel=00aaff&sideNums=ffffff&sideLabels=00aaff&dates=ffffff" alt="evitabarboza" />
 </p>
 <p>
