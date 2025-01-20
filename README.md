@@ -7,9 +7,9 @@
 </h3>
 
 <br>
-<div align="center">
-  <img src="https://i.pinimg.com/originals/49/c3/56/49c356947e7e5d6a353056177e7f66ae.gif" alt="Centered GIF" height="220" />
-</div>
+<!-- <div align="center"> -->
+  <img align="right" src="https://i.pinimg.com/originals/49/c3/56/49c356947e7e5d6a353056177e7f66ae.gif" alt="Centered GIF" height="220" />
+<!-- </div> -->
 
 
 <h3 align="left">Connect with me:</h3>
