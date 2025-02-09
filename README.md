@@ -31,9 +31,6 @@
     <img src="https://skillicons.dev/icons?i=mysql,postman,python,javascript,express,vercel,mongodb,c,java,php" /></p>
 <br>
 
-
-
-
     
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=evitabarboza&show_icons=true&locale=en&theme=dark&text_color=ffffff&title_color=00aaff" alt="evitabarboza" />  </p> 
 <p>
