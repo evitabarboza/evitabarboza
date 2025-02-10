@@ -39,12 +39,3 @@
     <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evitabarboza&show_icons=true&locale=en&layout=compact&theme=dark&text_color=ffffff&title_color=00aaff" alt="evitabarboza" width="355" />
 </p> 
-
-
-
-
-
-
-
-
-
