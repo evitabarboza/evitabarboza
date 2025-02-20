@@ -2,15 +2,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+People!+👋;+I'm+Evita+Barboza;&color=000000"/>
 </h1>
 
+
 <h3 align="center">
     <em>I am a 3rd year CSE Student who is passionate about learning new tech stuffs</em>
 </h3>
 
+
 <br>
+
 
 <div align="center"> 
   <img src="https://i.pinimg.com/originals/49/c3/56/49c356947e7e5d6a353056177e7f66ae.gif" alt="Centered GIF" height="220" />
 </div>
+
+
 
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
@@ -24,6 +29,8 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
   </a>
 </p>
+
+
 
 <h3 align="left"> 🛠️ Languages and Tools:</h3>
 <p align="left"> <a href="https://skillsicon.dev" target="_blank" rel="noreferrer"> 
