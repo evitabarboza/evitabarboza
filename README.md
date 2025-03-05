@@ -32,7 +32,6 @@
 
 
 
-
 <h3 align="left"> 🛠️ Languages and Tools:</h3>
 <p align="left"> <a href="https://skillsicon.dev" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,photoshop" />
