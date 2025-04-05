@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/69046031/181695572-d47ed99f-25a8-474d-87ef-48e000750a5e.png" alt="Github background" />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+People!+👋;+I'm+Evita+Barboza;&color=000000"/>
 </h1>
