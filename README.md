@@ -15,7 +15,7 @@
   <div>
        <img src="https://miro.medium.com/v2/resize:fit:496/format:webp/0*Kf8Cv4yPJLP8gJ0t.gif" alt="coding" align="right" height:"220px">
     <p style="text-align: justify;" align="left" >
-      I'm a third-year Computer Science Engineering student who's juggling code, <br>caffeine, and curiosity on a daily basis. I dabble in web development, write  <br> content when I’m feeling poetic (or when deadlines loom),  and love building <br> things that (hopefully) don’t break. I'm currently sharpening my fullstack skills, <br> breaking things to learn how to fix them, and trying to make sense of semicolons. <br>Whether it’s  contributing to open-source projects or just battling with CSS, <br> I’m always up for a techy adventure!
+      💻✨  I'm a third-year Computer Science Engineering student who's juggling code, <br>caffeine, and curiosity on a daily basis. I dabble in web development, write  <br> content when I’m feeling poetic (or when deadlines loom),  and love building <br> things that (hopefully) don’t break. I'm currently sharpening my fullstack skills, <br> breaking things to learn how to fix them, and trying to make sense of semicolons. <br>Whether it’s  contributing to open-source projects or just battling with CSS, <br> I’m always up for a techy adventure!
     </p>
  
 </div>
