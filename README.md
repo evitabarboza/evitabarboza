@@ -10,13 +10,12 @@
 
 <br>
 
-<div style="display: flex; align-items: center; justify-content: space-between; text-align: justify;">
-  <div style="flex: 1; padding-right: 20px;">
-    <p>
-      I'm a third-year Computer Science Engineering student who’s juggling code, caffeine, and curiosity on a daily basis. I dabble in web development, write content when I’m feeling poetic (or when deadlines loom), and love building things that (hopefully) don’t break. I'm currently sharpening my full-stack skills, breaking things to learn how to fix them, and trying to make sense of semicolons. Whether it’s contributing to open-source projects or just battling with CSS, I’m always up for a techy adventure!
+  <div>
+       <img src="https://miro.medium.com/v2/resize:fit:496/format:webp/0*Kf8Cv4yPJLP8gJ0t.gif" alt="coding" align="right" height:"220px">
+    <p style="text-align: justify;" align="left" >
+      I'm a third-year Computer Science Engineering student who's juggling code, <br>caffeine, and curiosity on a daily basis. I dabble in web development, write  <br> content when I’m feeling poetic (or when deadlines loom),  and love building <br> things that (hopefully) don’t break. I'm currently sharpening my fullstack skills, <br> breaking things to learn how to fix them, and trying to make sense of semicolons. <br>Whether it’s  contributing to open-source projects or just battling with CSS, <br> I’m always up for a techy adventure!
     </p>
-  </div>
-  <img src="https://miro.medium.com/v2/resize:fit:496/format:webp/0*Kf8Cv4yPJLP8gJ0t.gif" alt="coding" style="height: 220px; max-width: 100%;">
+ 
 </div>
 
 
