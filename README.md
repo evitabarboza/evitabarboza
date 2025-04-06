@@ -25,8 +25,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=evitabarboza&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=evitabarboza&theme=dark&hide_border=false" height="200"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evitabarboza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
