@@ -11,7 +11,7 @@
     <em>I am a 3rd year CSE Student who is passionate about learning new tech stuffs</em>
 </h3>
 
-<br>
+<br><br>
 
 <div>
     <img src="https://miro.medium.com/v2/resize:fit:496/format:webp/0*Kf8Cv4yPJLP8gJ0t.gif" alt="coding" align="right" height="220px" style="margin-left: 20px;" >
@@ -27,7 +27,7 @@
     </p>
 </div>
 
-<br>
+<br><br>
 
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fevitabarboza">
