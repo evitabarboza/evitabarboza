@@ -4,29 +4,27 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+People!+👋;+I'm+Evita+Barboza;&color=000000"/>
 </h1>
 
-
 <h3 align="center">
     <em>I am a 3rd year CSE Student who is passionate about learning new tech stuffs</em>
 </h3>
 
-
 <br>
 
-  <div>
-       <img src="https://miro.medium.com/v2/resize:fit:496/format:webp/0*Kf8Cv4yPJLP8gJ0t.gif" alt="coding" align="right" height="220px" style="margin-left: 20px;" >
-    <p style="text-align: justify; " > <em>
-      💻✨ I'm a third-year Computer Science Engineering student who's juggling code, <br>
-      caffeine,  and curiosity 🤔 on a daily basis. I dabble in web development 🕸, <br>
-      write content 📝 when I’m feeling poetic (or when deadlines loom 😅), and love <br>
-      building things that (hopefully) don’t break 🛠️. I'm currently sharpening my <br>
-      fullstack skills 🧠, breaking things to learn how to fix them , and trying to make <br>
-      sense of semicolons 😵‍💫. Whether it’s contributing to open-source projects 👨‍💻 or <br>
-      just battling with CSS, I’m always up for a techy adventure 🚀! </em>
+<div>
+    <img src="https://miro.medium.com/v2/resize:fit:496/format:webp/0*Kf8Cv4yPJLP8gJ0t.gif" alt="coding" align="right" height="220px" style="margin-left: 20px;" >
+    <h3 align="left"> 🙋‍♀️ About Me:</h3>
+    <p style="text-align: justify;">
+        💻✨ I’m a third-year Computer Science Engineering student who spends most  <br>
+        of the day juggling code, caffeine ☕, and curiosity 🤔. I have a strong interest  <br>
+        write content usually when inspiration strikes or deadlines demand it 😅, and I love <br>
+        in web development 🕸️, building things that (ideally) don’t break 🛠️. I'm currently <br>
+        sharpening my full-stack skills 🧠, occasionally breaking things just to fix them again, <br>
+        and trying to make sense of semicolons 😵‍💫. Whether it’s contributing to open-source   <br>
+        projects or just battling with CSS 🎨, I’m always up for the next techy adventure 🚀!
     </p>
- 
 </div>
 
-
+<br>
 
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
