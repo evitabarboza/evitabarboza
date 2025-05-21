@@ -1,4 +1,3 @@
-
 ## 🌐 Socials:
 <p align="left">
   <a href="https://instagram.com/evitabarboza" target="_blank" rel="noreferrer">
