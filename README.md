@@ -40,8 +40,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&height=20)
 
 
-# 🌱  Contributions:
-![snake gif](https://github.com/evitabarboza/evitabarboza/blob/output/github-snake-dark.svg)
 
 
 
